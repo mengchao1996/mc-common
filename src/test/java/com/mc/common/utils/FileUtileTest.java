@@ -1,7 +1,5 @@
 package com.mc.common.utils;
 
-import static org.junit.Assert.*;
-
 import java.io.File;
 
 import org.junit.Test;
